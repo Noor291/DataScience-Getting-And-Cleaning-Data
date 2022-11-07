@@ -16,6 +16,7 @@ This code book describes all of the data fields in the `FinalData.txt` file.
 ## Measurements
 
 These variables are all of the `mean` and `std` values for the corresponding measurement based on the subject and the activity.  These are all of data type `numeric`.
+ 
  [1] "TimeBodyAccelerometerMean()-X"                    
  [2] "TimeBodyAccelerometerMean()-Y"                    
  [3] "TimeBodyAccelerometerMean()-Z"                    
